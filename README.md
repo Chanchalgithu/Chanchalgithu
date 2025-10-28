@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Chanchalgithu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Data Science with Gen Ai
 - 💞️ I’m looking to collaborate on major projects
+- 💞️ I have completed some Data science projects which is useful for future 
 - 📫 How to reach me ...
 
 <!---
